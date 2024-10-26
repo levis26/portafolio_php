@@ -49,7 +49,7 @@ class __TwigTemplate_ec1d66153439d6ae7942877a5203699f extends Template
     <meta name=\"description\" content=\"\">
     <meta name=\"author\" content=\"Mark Otto, Jacob Thornton, and Bootstrap contributors\">
     <meta name=\"generator\" content=\"Hugo 0.122.0\">
-    <title>Portfolio</title>
+    <title>Portafolio</title>
 
 <!--    <link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/@docsearch/css@3\"> -->
 

@@ -49,7 +49,7 @@ class __TwigTemplate_565b32497850e254230e305028a8cc2b extends Template
     <meta name=\"description\" content=\"\">
     <meta name=\"author\" content=\"Mark Otto, Jacob Thornton, and Bootstrap contributors\">
     <meta name=\"generator\" content=\"Hugo 0.122.0\">
-    <title>Portfolio</title>
+    <title>Portafolio</title>
 
 <!--    <link rel=\"stylesheet\" href=\"https://cdn.jsdelivr.net/npm/@docsearch/css@3\"> -->
 
@@ -399,6 +399,6 @@ class __TwigTemplate_565b32497850e254230e305028a8cc2b extends Template
 
     public function getSourceContext(): Source
     {
-        return new Source("", "index.html", "/var/www/portfolio.local/public/templates/index.html");
+        return new Source("", "index.html", "/var/www/portafolio.local/public/templates/index.html");
     }
 }
